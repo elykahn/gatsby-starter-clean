@@ -7,16 +7,16 @@ import CodePlugin from 'typography-plugin-code'
 const options = {
   googleFonts: [
     {
-      name: 'Roboto',
+      name: 'Segoe UI',
       styles: [
         '400',
-        '400i',        
+        '400i',
         '700'
       ]
     }
   ],
-  headerFontFamily: ['Roboto', 'sans-serif'],
-  bodyFontFamily: ['Roboto', 'sans-serif'],
+  headerFontFamily: ['Segoe UI', 'sans-serif'],
+  bodyFontFamily: ['Segoe UI', 'sans-serif'],
   baseFontSize: '18px',
   baseLineHeight: 1.65,
   scale: 2.25,
